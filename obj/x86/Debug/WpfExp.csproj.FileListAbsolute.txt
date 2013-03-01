@@ -1,0 +1,17 @@
+D:\wxr\dotnet\WpfExp\bin\Debug\WpfExp.exe
+D:\wxr\dotnet\WpfExp\bin\Debug\WpfExp.pdb
+D:\wxr\dotnet\WpfExp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\wxr\dotnet\WpfExp\obj\x86\Debug\MainWindow.baml
+D:\wxr\dotnet\WpfExp\obj\x86\Debug\MainWindow.g.cs
+D:\wxr\dotnet\WpfExp\obj\x86\Debug\App.g.cs
+D:\wxr\dotnet\WpfExp\obj\x86\Debug\WpfExp_MarkupCompile.cache
+D:\wxr\dotnet\WpfExp\obj\x86\Debug\WpfExp.g.resources
+D:\wxr\dotnet\WpfExp\obj\x86\Debug\WpfExp.Properties.Resources.resources
+D:\wxr\dotnet\WpfExp\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\wxr\dotnet\WpfExp\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\wxr\dotnet\WpfExp\obj\x86\Debug\WpfExp.exe
+D:\wxr\dotnet\WpfExp\obj\x86\Debug\WpfExp.pdb
+D:\wxr\dotnet\WpfExp\obj\x86\Debug\DataGridMultiHeader.baml
+D:\wxr\dotnet\WpfExp\obj\x86\Debug\DataGridMultiHeader.g.cs
+D:\wxr\dotnet\WpfExp\obj\x86\Debug\DataGridMultiHeader2.baml
+D:\wxr\dotnet\WpfExp\obj\x86\Debug\DataGridMultiHeader2.g.cs
