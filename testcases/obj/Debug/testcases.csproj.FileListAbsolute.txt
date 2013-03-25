@@ -1,0 +1,5 @@
+D:\wxr\dotnet\testcases\bin\Debug\testcases.dll
+D:\wxr\dotnet\testcases\bin\Debug\testcases.pdb
+D:\wxr\dotnet\testcases\obj\Debug\ResolveAssemblyReference.cache
+D:\wxr\dotnet\testcases\obj\Debug\testcases.dll
+D:\wxr\dotnet\testcases\obj\Debug\testcases.pdb

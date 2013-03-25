@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="ea0380ba-c4d0-44c7-8989-5231d595f7d5" name="USER@WANGXR 2013-03-25 15:12:03" runUser="WANGXR\USER" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="本地" id="4341e0e9-b66a-4d2e-bc5e-e3550c17ce17">
+    <Description>这些设置为本地测试运行的默认测试设置。</Description>
+    <Deployment enabled="false" runDeploymentRoot="USER_WANGXR 2013-03-25 15_12_03" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-03-25T15:12:03.9280706+08:00" queuing="2013-03-25T15:12:03.9410713+08:00" start="2013-03-25T15:12:03.9450715+08:00" finish="2013-03-25T15:12:04.1300821+08:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="6" executed="6" passed="6" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod4" storage="d:\wxr\dotnet\testcases\bin\debug\testcases.dll" id="1a0a480e-f4e1-21a2-ae7b-8ab9c9079d36">
+      <Execution id="e6eb0b35-51e2-4db5-b650-11ebb13b1363" />
+      <TestMethod codeBase="D:/wxr/dotnet/testcases/bin/Debug/testcases.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="testcases.UnitTest1, testcases, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod4" />
+    </UnitTest>
+    <UnitTest name="TestMethod2" storage="d:\wxr\dotnet\testcases\bin\debug\testcases.dll" id="54a6f244-4878-9fb7-0a84-993cfc142f03">
+      <Execution id="6a999f44-1621-4087-8e92-0e5ed3f02e5b" />
+      <TestMethod codeBase="D:/wxr/dotnet/testcases/bin/Debug/testcases.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="testcases.UnitTest1, testcases, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod2" />
+    </UnitTest>
+    <UnitTest name="TestMethod3" storage="d:\wxr\dotnet\testcases\bin\debug\testcases.dll" id="7941524c-6e1a-0102-e632-9abd845cb3dc">
+      <Execution id="6509d1ab-1719-4417-8d9c-49513e6afabe" />
+      <TestMethod codeBase="D:/wxr/dotnet/testcases/bin/Debug/testcases.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="testcases.UnitTest1, testcases, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod3" />
+    </UnitTest>
+    <UnitTest name="TestMethod1" storage="d:\wxr\dotnet\testcases\bin\debug\testcases.dll" id="aae7e1ef-f708-207f-1b1b-10f295c50c8b">
+      <Execution id="d54668f7-c18b-4f5a-bff9-0694076b2ad1" />
+      <TestMethod codeBase="D:/wxr/dotnet/testcases/bin/Debug/testcases.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="testcases.UnitTest1, testcases, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+    <UnitTest name="TestMethod6" storage="d:\wxr\dotnet\testcases\bin\debug\testcases.dll" id="2fe5ee5b-c36f-3743-b7ef-3dd82b9cf17d">
+      <Execution id="e8465b21-511d-4652-927e-c6936a6c09a8" />
+      <TestMethod codeBase="D:/wxr/dotnet/testcases/bin/Debug/testcases.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="testcases.UnitTest1, testcases, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod6" />
+    </UnitTest>
+    <UnitTest name="TestMethod5" storage="d:\wxr\dotnet\testcases\bin\debug\testcases.dll" id="c73374bb-c345-43ae-ec9b-629aece9e312">
+      <Execution id="7af59640-4642-4b52-8d56-46106abc2bc1" />
+      <TestMethod codeBase="D:/wxr/dotnet/testcases/bin/Debug/testcases.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="testcases.UnitTest1, testcases, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod5" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="列表中未列出的结果" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="所有已加载的结果" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="1a0a480e-f4e1-21a2-ae7b-8ab9c9079d36" executionId="e6eb0b35-51e2-4db5-b650-11ebb13b1363" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2fe5ee5b-c36f-3743-b7ef-3dd82b9cf17d" executionId="e8465b21-511d-4652-927e-c6936a6c09a8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="54a6f244-4878-9fb7-0a84-993cfc142f03" executionId="6a999f44-1621-4087-8e92-0e5ed3f02e5b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7941524c-6e1a-0102-e632-9abd845cb3dc" executionId="6509d1ab-1719-4417-8d9c-49513e6afabe" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="aae7e1ef-f708-207f-1b1b-10f295c50c8b" executionId="d54668f7-c18b-4f5a-bff9-0694076b2ad1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c73374bb-c345-43ae-ec9b-629aece9e312" executionId="7af59640-4642-4b52-8d56-46106abc2bc1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="e6eb0b35-51e2-4db5-b650-11ebb13b1363" testId="1a0a480e-f4e1-21a2-ae7b-8ab9c9079d36" testName="TestMethod4" computerName="WANGXR" duration="00:00:00.0085450" startTime="2013-03-25T15:12:03.9460716+08:00" endTime="2013-03-25T15:12:04.1000804+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e6eb0b35-51e2-4db5-b650-11ebb13b1363">
+    </UnitTestResult>
+    <UnitTestResult executionId="e8465b21-511d-4652-927e-c6936a6c09a8" testId="2fe5ee5b-c36f-3743-b7ef-3dd82b9cf17d" testName="TestMethod6" computerName="WANGXR" duration="00:00:00.0001163" startTime="2013-03-25T15:12:04.1010805+08:00" endTime="2013-03-25T15:12:04.1040806+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e8465b21-511d-4652-927e-c6936a6c09a8">
+    </UnitTestResult>
+    <UnitTestResult executionId="6a999f44-1621-4087-8e92-0e5ed3f02e5b" testId="54a6f244-4878-9fb7-0a84-993cfc142f03" testName="TestMethod2" computerName="WANGXR" duration="00:00:00.0001048" startTime="2013-03-25T15:12:04.1050807+08:00" endTime="2013-03-25T15:12:04.1080809+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6a999f44-1621-4087-8e92-0e5ed3f02e5b">
+    </UnitTestResult>
+    <UnitTestResult executionId="6509d1ab-1719-4417-8d9c-49513e6afabe" testId="7941524c-6e1a-0102-e632-9abd845cb3dc" testName="TestMethod3" computerName="WANGXR" duration="00:00:00.0001060" startTime="2013-03-25T15:12:04.1090809+08:00" endTime="2013-03-25T15:12:04.1120811+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6509d1ab-1719-4417-8d9c-49513e6afabe">
+    </UnitTestResult>
+    <UnitTestResult executionId="d54668f7-c18b-4f5a-bff9-0694076b2ad1" testId="aae7e1ef-f708-207f-1b1b-10f295c50c8b" testName="TestMethod1" computerName="WANGXR" duration="00:00:00.0001181" startTime="2013-03-25T15:12:04.1140812+08:00" endTime="2013-03-25T15:12:04.1170814+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d54668f7-c18b-4f5a-bff9-0694076b2ad1">
+    </UnitTestResult>
+    <UnitTestResult executionId="7af59640-4642-4b52-8d56-46106abc2bc1" testId="c73374bb-c345-43ae-ec9b-629aece9e312" testName="TestMethod5" computerName="WANGXR" duration="00:00:00.0001216" startTime="2013-03-25T15:12:04.1180814+08:00" endTime="2013-03-25T15:12:04.1210816+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7af59640-4642-4b52-8d56-46106abc2bc1">
+    </UnitTestResult>
+  </Results>
+</TestRun>

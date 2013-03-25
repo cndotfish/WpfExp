@@ -1,0 +1,11 @@
+D:\wxr\dotnet\WpfExp\testcases-nunit\bin\Debug\testcases-nunit.dll
+D:\wxr\dotnet\WpfExp\testcases-nunit\bin\Debug\testcases-nunit.pdb
+D:\wxr\dotnet\WpfExp\testcases-nunit\bin\Debug\CommonUtils.dll
+D:\wxr\dotnet\WpfExp\testcases-nunit\bin\Debug\nunit.framework.dll
+D:\wxr\dotnet\WpfExp\testcases-nunit\bin\Debug\CommonUtils.pdb
+D:\wxr\dotnet\WpfExp\testcases-nunit\bin\Debug\nunit.framework.xml
+D:\wxr\dotnet\WpfExp\testcases-nunit\obj\Debug\ResolveAssemblyReference.cache
+D:\wxr\dotnet\WpfExp\testcases-nunit\obj\Debug\testcases-nunit.dll
+D:\wxr\dotnet\WpfExp\testcases-nunit\obj\Debug\testcases-nunit.pdb
+D:\wxr\dotnet\WpfExp\exe\testcases-nunit.dll
+D:\wxr\dotnet\WpfExp\exe\testcases-nunit.pdb

@@ -1,0 +1,5 @@
+D:\wxr\dotnet\Cosole\bin\Debug\Cosole.exe
+D:\wxr\dotnet\Cosole\bin\Debug\Cosole.pdb
+D:\wxr\dotnet\Cosole\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\wxr\dotnet\Cosole\obj\x86\Debug\Cosole.exe
+D:\wxr\dotnet\Cosole\obj\x86\Debug\Cosole.pdb

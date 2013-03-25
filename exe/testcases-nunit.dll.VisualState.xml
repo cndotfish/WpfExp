@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1016]D:\wxr\dotnet\WpfExp\exe\testcases-nunit.dll</TopNode>
+  <SelectedNode>[0-1015]CommonUtils.CryptographyUtilTest.testAsymetricEncrypt</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1016]D:\wxr\dotnet\WpfExp\exe\testcases-nunit.dll" Expanded="true" />
+    <Node UniqueName="[0-1017]CommonUtils" Expanded="true" />
+    <Node UniqueName="[0-1000]CommonUtils.AccountTest" Expanded="true" />
+    <Node UniqueName="[0-1011]CommonUtils.CryptographyUtilTest" Expanded="true" />
+    <Node UniqueName="[0-1002]CommonUtils.MyTest" Expanded="true" />
+  </Nodes>
+</VisualState>

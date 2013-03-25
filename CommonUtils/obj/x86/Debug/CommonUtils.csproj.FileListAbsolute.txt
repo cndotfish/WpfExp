@@ -1,0 +1,16 @@
+D:\wxr\dotnet\Cosole\bin\Debug\CommonUtils.dll
+D:\wxr\dotnet\Cosole\bin\Debug\CommonUtils.pdb
+D:\wxr\dotnet\Cosole\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\wxr\dotnet\Cosole\obj\x86\Debug\CommonUtils.dll
+D:\wxr\dotnet\Cosole\obj\x86\Debug\CommonUtils.pdb
+D:\wxr\dotnet\WpfExp\CommonUtils\bin\Debug\CommonUtils.dll
+D:\wxr\dotnet\WpfExp\CommonUtils\bin\Debug\CommonUtils.pdb
+D:\wxr\dotnet\WpfExp\CommonUtils\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\wxr\dotnet\WpfExp\CommonUtils\obj\x86\Debug\CommonUtils.dll
+D:\wxr\dotnet\WpfExp\CommonUtils\obj\x86\Debug\CommonUtils.pdb
+D:\wxr\exe\CommonUtils.dll
+D:\wxr\exe\CommonUtils.pdb
+D:\wxr\dotnet\exe\CommonUtils.dll
+D:\wxr\dotnet\exe\CommonUtils.pdb
+D:\wxr\dotnet\WpfExp\exe\CommonUtils.dll
+D:\wxr\dotnet\WpfExp\exe\CommonUtils.pdb
